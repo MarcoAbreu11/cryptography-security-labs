@@ -1,0 +1,33 @@
+DOCUMENTO DE TEXTO PARA CÓPIA
+
+DATA DE CRIAÇÃO: 09 de Fevereiro de 2026
+ASSUNTO: Exemplo de conteúdo para ficheiro de texto
+VERSÃO: 1.0
+
+1. INTRODUÇÃO
+
+Este é um exemplo de texto estruturado para ser guardado num 
+ficheiro com a extensão .txt. O formato de texto simples é 
+ideal para garantir a compatibilidade entre diferentes 
+sistemas operativos e dispositivos.
+
+2. LISTA DE TAREFAS (EXEMPLO)
+
+[ ] Configurar ambiente de desenvolvimento
+[ ] Rever documentação da API
+[ ] Testar integração de módulos
+[ ] Exportar logs para análise final
+
+3. NOTAS TÉCNICAS
+
+* Codificação recomendada: UTF-8
+* Sem formatação de cores ou estilos
+* Ideal para scripts, logs ou rascunhos rápidos
+
+4. PARÁGRAFO DE TESTE (LONG)
+
+A persistência da memória digital permite que informações 
+sejam transmitidas através de redes complexas em milissegundos. 
+Este ficheiro serve como um contentor minimalista para dados 
+que não requerem a sobrecarga de processadores de texto pesados. 
+Simplicidade é a sofisticação máxima.
