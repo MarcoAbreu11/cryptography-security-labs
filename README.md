@@ -1,4 +1,4 @@
-# FCSI – Lab Assignments (Guiões)
+# FCSI – Lab Assignments
 
 This repository contains the practical assignment solutions developed for the **Fundamentos de Criptografia e Segurança da Informação (Fundamentals of Cryptography and Information Security)** course. Each week's folder includes the implementation, supporting files, and a report answering the corresponding theoretical questions.
 
